@@ -1,1 +1,3 @@
-# 3p0d_package_shaderLibrary_SRP
+# 3P0D's Custom SRP Shader Library
+... Just shaders I made for Unity's SRP.
+Mostly with ShaderForge.
