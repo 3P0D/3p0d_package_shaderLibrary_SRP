@@ -1,0 +1,10 @@
+{
+    "name": "be.3p0d.srpshaderlibrary",
+    "displayName": "3P0D's SRP Shaders Library",
+    "version": "0.0.1",
+    "unity": "2019.3",
+    "description": "Mostly shaders made with Freya Holmer's Shader Forge tool.",
+    "keywords": ["Script","Tool"],
+    "category": "Script",
+    "dependencies":{}
+  }

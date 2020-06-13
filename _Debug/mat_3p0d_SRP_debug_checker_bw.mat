@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: mat_3p0d_SRP_debug_checker_bw
-  m_Shader: {fileID: 4800000, guid: ec78c51c6fe38de4e90aec82005885cb, type: 3}
+  m_Shader: {fileID: 4800000, guid: 95a66282522550947962c6496c4434a2, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
