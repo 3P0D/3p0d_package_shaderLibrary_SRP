@@ -3,7 +3,7 @@ guid: ec78c51c6fe38de4e90aec82005885cb
 ShaderImporter:
   externalObjects: {}
   defaultTextures:
-  - _Lightmap: {fileID: 2800000, guid: 804d3817a1097c941ab86d7004e4004e, type: 3}
+  - _Shadows: {fileID: 2800000, guid: 804d3817a1097c941ab86d7004e4004e, type: 3}
   - _Albedo: {fileID: 2800000, guid: 7c01a5d963ec7c141b138e182b80c628, type: 3}
   nonModifiableTextures: []
   userData: 

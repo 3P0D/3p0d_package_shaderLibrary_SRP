@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 8ccd2f3941a7c1041b87f85f275dbad1
+guid: e7a78b91e1824aa4da5dcaa70c52be63
 ShaderImporter:
   externalObjects: {}
   defaultTextures:
-  - _Lightmaps: {fileID: 2800000, guid: 804d3817a1097c941ab86d7004e4004e, type: 3}
+  - _Shadows: {fileID: 2800000, guid: 804d3817a1097c941ab86d7004e4004e, type: 3}
   - _Albedo: {fileID: 2800000, guid: 7c01a5d963ec7c141b138e182b80c628, type: 3}
-  - _Glowmap: {fileID: 2800000, guid: 804d3817a1097c941ab86d7004e4004e, type: 3}
+  - _Highlights: {fileID: 2800000, guid: 804d3817a1097c941ab86d7004e4004e, type: 3}
   - _Opacitymap: {fileID: 2800000, guid: 2b1a8adf5ffb3794ba0c6a9856cb3b46, type: 3}
   nonModifiableTextures: []
   userData: 
